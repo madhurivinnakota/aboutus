@@ -1,0 +1,32 @@
+
+
+
+
+.html{
+    scroll-behavior: smooth;
+}
+
+
+.about-us-section-img {
+    width:100%;
+border-radius: 12px;
+}
+
+.aboutus-section {
+    background-color: #ffffff;
+    color: #373838;
+
+}
+.about-us-section-heading{
+    color:#000000;
+    font-family: "Roboto";
+    font-size:40px;
+    font-weight:bold;
+    
+}
+.about-us-section-description{
+    color:#000000;
+    font-family:"Roboto";
+    font-size:16px;
+    padding-top:20px;
+}
